@@ -1,0 +1,8 @@
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة برمجة عملي الكود الرابع\المحاضرة الثالثة برمجة عملي الكود الرابع\bin\Debug\المحاضرة الثالثة برمجة عملي الكود الرابع.exe.config
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة برمجة عملي الكود الرابع\المحاضرة الثالثة برمجة عملي الكود الرابع\bin\Debug\المحاضرة الثالثة برمجة عملي الكود الرابع.exe
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة برمجة عملي الكود الرابع\المحاضرة الثالثة برمجة عملي الكود الرابع\bin\Debug\المحاضرة الثالثة برمجة عملي الكود الرابع.pdb
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة برمجة عملي الكود الرابع\المحاضرة الثالثة برمجة عملي الكود الرابع\obj\Debug\المحاضرة_الثالثة_برمجة_عملي_الكود_الرابع.Form1.resources
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة برمجة عملي الكود الرابع\المحاضرة الثالثة برمجة عملي الكود الرابع\obj\Debug\المحاضرة_الثالثة_برمجة_عملي_الكود_الرابع.Properties.Resources.resources
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة برمجة عملي الكود الرابع\المحاضرة الثالثة برمجة عملي الكود الرابع\obj\Debug\المحاضرة الثالثة برمجة عملي الكود الرابع.csproj.GenerateResource.Cache
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة برمجة عملي الكود الرابع\المحاضرة الثالثة برمجة عملي الكود الرابع\obj\Debug\المحاضرة الثالثة برمجة عملي الكود الرابع.exe
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الثالثة برمجة عملي الكود الرابع\المحاضرة الثالثة برمجة عملي الكود الرابع\obj\Debug\المحاضرة الثالثة برمجة عملي الكود الرابع.pdb
